@@ -12,5 +12,6 @@ namespace FilmesAPI.Data.Dtos.Filme
         public string Genero { get; set; }
         [Range(1, 280, ErrorMessage = "O tempo tem que tre no minimo 1 e no maximo 280 minutos")]
         public int Duracao { get; set; }
+        public int ClassificacaoEtaria { get; set; }
     }
 }

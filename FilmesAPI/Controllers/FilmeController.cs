@@ -22,7 +22,7 @@ namespace FilmesAPI.Controllers
         }
 
         [HttpPost]
-        public IActionResult AdicionaFilme([FromBody] CreateEnderecoDto filmeDto)
+        public IActionResult AdicionaFilme([FromBody] CreateFilmeDto filmeDto)
         {
             Filme filme = _mapper.Map<Filme>(filmeDto);
 
@@ -36,6 +36,7 @@ namespace FilmesAPI.Controllers
         {
             return _context.Filmes;
         }
+
         [HttpGet("{id}")]
         public IActionResult RecuperaFilmePorId(int id)
         {

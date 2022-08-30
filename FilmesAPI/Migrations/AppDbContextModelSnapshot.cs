@@ -68,6 +68,9 @@ namespace FilmesAPI.Migrations
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
+                    b.Property<int>("ClassificacaoEtaria")
+                        .HasColumnType("int");
+
                     b.Property<string>("Diretor")
                         .IsRequired()
                         .HasColumnType("text");
