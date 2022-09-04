@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "l5KeaAWt4awByIP9EOf25RQOCKU90azn3/hw18fP5+S8Gbv76orYxd2k/p6jKa11j5K3TZv4fa2cicpnLLdaCg==",
+  "dgSpecHash": "rC3FsJ15ap/EQTFxrQFhbgVqtkAn+va68OiRifZhcqUdUajaC+PT/C03s/T1dNYd7fmWbfVMqk33K2CmxI9I+w==",
   "success": true,
   "projectFilePath": "C:\\Users\\Luan Muruk\\Documents\\MeusProjetosCSharp\\FilmesAPI\\FilmesAPI.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,7 @@
     "C:\\Users\\Luan Muruk\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
     "C:\\Users\\Luan Muruk\\.nuget\\packages\\bouncycastle.netcore\\1.8.5\\bouncycastle.netcore.1.8.5.nupkg.sha512",
     "C:\\Users\\Luan Muruk\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
+    "C:\\Users\\Luan Muruk\\.nuget\\packages\\fluentresults\\2.5.0\\fluentresults.2.5.0.nupkg.sha512",
     "C:\\Users\\Luan Muruk\\.nuget\\packages\\google.protobuf\\3.19.4\\google.protobuf.3.19.4.nupkg.sha512",
     "C:\\Users\\Luan Muruk\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Luan Muruk\\.nuget\\packages\\k4os.compression.lz4\\1.2.6\\k4os.compression.lz4.1.2.6.nupkg.sha512",
